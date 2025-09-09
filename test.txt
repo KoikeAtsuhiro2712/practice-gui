@@ -1,3 +1,15 @@
-githubでプッシュができるかtestします
-test to push on github.
-github test to push
+winmerge
+vscode
+terapad
+teams
+tartoise git
+sourcetree
+slack
+sakura editor
+memopad
+mail
+github copilot
+git
+explorer
+SEP
+visual studio
