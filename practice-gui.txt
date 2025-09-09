@@ -4,5 +4,3 @@ start study of git on gui
 
 end study of git on gui
 gitでのguiの勉強を終わります。
-
-次はvscodeの勉強をします。
