@@ -1,1 +1,3 @@
 gitでのguiの勉強を始めます。
+
+start study of git on gui
