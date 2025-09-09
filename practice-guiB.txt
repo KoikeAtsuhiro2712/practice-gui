@@ -1,1 +1,2 @@
 practice-guiBの勉強を始めます
+practice-guiBの勉強を終わります。
