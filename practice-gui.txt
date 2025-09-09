@@ -2,4 +2,5 @@ gitでのguiの勉強を始めます。
 
 start study of git on gui
 
+end study of git on gui
 gitでのguiの勉強を終わります。
